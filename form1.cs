@@ -32,7 +32,7 @@ namespace WindowsFormsLuxure
         public void combination()
         {
             
-            double s = double.Parse(m);
+            double s = d
             double q = double.Parse(n);
             if (s > 165 && q > 165)
             {
