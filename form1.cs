@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
+using System.Text;uol;gul.l.yilyigl.illu;;i
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
