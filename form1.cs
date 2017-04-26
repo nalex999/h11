@@ -50,7 +50,7 @@ namespace WindowsFormsLuxure
                 return;
                 
             }
-            if (q > 165)
+            if (q > 165)ggggg
             {
 
                 textBox3.Text = "";
